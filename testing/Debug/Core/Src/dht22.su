@@ -1,0 +1,5 @@
+../Core/Src/dht22.c:18:6:microDelay	16	static
+../Core/Src/dht22.c:25:6:DHT22_Init	16	static
+../Core/Src/dht22.c:31:9:DHT22_Start	32	static
+../Core/Src/dht22.c:62:9:DHT22_Read	16	static
+../Core/Src/dht22.c:92:9:DHT22_ReadData	16	static
